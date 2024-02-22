@@ -152,7 +152,7 @@ const menuContent = [
         { id: 81, nom: 'Gésier', description: 'Salade, gésiers de volaille chaud, pommes de terre, tomates', prix: 8.50 },
         { id: 82, nom: 'Belle des mers', description: 'Salade, saumon fumé, tomates, crème fraîche', prix: 8.50 },
         { id: 83, nom: 'Italienne', description: 'Salade, taomates, mozarella, jambon cru, sauce pesto', prix: 8.50 },
-        { id: 84, nom: 'Pièmontaise', description: 'SAlade, jambon, pomes de terre, oeuf dur, cornichons, tomates', prix: 8.50 },
+        { id: 84, nom: 'Pièmontaise', description: 'Salade, jambon, pomes de terre, oeuf dur, cornichons, tomates', prix: 8.50 },
       ],
     },
     {
@@ -193,23 +193,23 @@ const menuContent = [
       id: 99,
       nom: 'Formules',
       plats: [
-        { id: 100, nom: 'Plat Du Jour',description: '1 plat du jour + 1 boisson ( Coca-Cola, Diabolo, Eau Plate ou Gazeuse, Thé Glacé, Pelforth Pression ou Verre de Vin) + 1 dessert ( Tiramisu, île flottante, crème brûlée ou 2 boules de glace', prix: 16.0 },
-        { id: 101, nom: 'Salade',description: '1 salade au choix + 1 boisson ( Coca-Cola, Diabolo, Eau Plate ou Gazeuse, Thé Glacé, Pelforth Pression ou Verre de Vin) + 1 dessert ( Tiramisu, île flottante, crème brûlée ou 2 boules de glace', prix: 15.0 },
+        { id: 100, nom: 'Plat Du Jour',description: '1 Plat du jour + 1 boisson ( Coca-Cola, Diabolo, Eau Plate ou Gazeuse, Thé Glacé, Pelforth Pression ou Verre de Vin) + 1 Ddessert ( Tiramisu, île flottante, crème brûlée ou 2 boules de glace', prix: 16.0 },
+        { id: 101, nom: 'Salade',description: '1 Salade au choix + 1 boisson ( Coca-Cola, Diabolo, Eau Plate ou Gazeuse, Thé Glacé, Pelforth Pression ou Verre de Vin) + 1 Dessert ( Tiramisu, île flottante, crème brûlée ou 2 boules de glace', prix: 15.0 },
       ],
     },
     {
       id: 102,
       nom: 'Glaces',
       plats: [
-        { id: 103, nom: 'Chocolat liégois',description: 'chocolat, vanille, coulis chocolat, chantilly', prix: 6.50 },
-        { id: 104, nom: 'Café liégois',description: 'café, vanille, coulis café, chantilly', prix: 6.50 },
-        { id: 105, nom: 'Dame blanche',description: 'vanille, coulis chocolat, chantilly', prix: 6.50 },
-        { id: 106, nom: 'La craquante',description: 'pistache, vanille, café, chantilly', prix: 6.50 },
+        { id: 103, nom: 'Chocolat liégois',description: 'Chocolat, vanille, coulis chocolat, chantilly', prix: 6.50 },
+        { id: 104, nom: 'Café liégois',description: 'Café, vanille, coulis café, chantilly', prix: 6.50 },
+        { id: 105, nom: 'Dame blanche',description: 'Vanille, coulis chocolat, chantilly', prix: 6.50 },
+        { id: 106, nom: 'La craquante',description: 'Pistache, vanille, café, chantilly', prix: 6.50 },
         { id: 107, nom: 'Coupe de printemps',description: 'framboise, fraise, citron, chantilly', prix: 6.50 },
         { id: 108, nom: 'Le Clown',description: '2 boule vanille, chantilly, smarties', prix: 6.50 },
-        { id: 109, nom: '1 boule',description: 'vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
-        { id: 110, nom: '2 boules',description: 'vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
-        { id: 111, nom: '3 boules',description: 'vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
+        { id: 109, nom: '1 boule',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
+        { id: 110, nom: '2 boules',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
+        { id: 111, nom: '3 boules',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
       ],
     }
   ];
