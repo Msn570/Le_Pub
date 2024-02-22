@@ -193,7 +193,7 @@ const menuContent = [
       id: 99,
       nom: 'Formules',
       plats: [
-        { id: 100, nom: 'Plat Du Jour',description: '1 Plat du jour + 1 boisson ( Coca-Cola, Diabolo, Eau Plate ou Gazeuse, Thé Glacé, Pelforth Pression ou Verre de Vin) + 1 Ddessert ( Tiramisu, île flottante, crème brûlée ou 2 boules de glace', prix: 16.0 },
+        { id: 100, nom: 'Plat Du Jour',description: '1 Plat du jour + 1 boisson ( Coca-Cola, Diabolo, Eau Plate ou Gazeuse, Thé Glacé, Pelforth Pression ou Verre de Vin) + 1 Dessert ( Tiramisu, île flottante, crème brûlée ou 2 boules de glace', prix: 16.0 },
         { id: 101, nom: 'Salade',description: '1 Salade au choix + 1 boisson ( Coca-Cola, Diabolo, Eau Plate ou Gazeuse, Thé Glacé, Pelforth Pression ou Verre de Vin) + 1 Dessert ( Tiramisu, île flottante, crème brûlée ou 2 boules de glace', prix: 15.0 },
       ],
     },
@@ -206,10 +206,10 @@ const menuContent = [
         { id: 105, nom: 'Dame blanche',description: 'Vanille, coulis chocolat, chantilly', prix: 6.50 },
         { id: 106, nom: 'La craquante',description: 'Pistache, vanille, café, chantilly', prix: 6.50 },
         { id: 107, nom: 'Coupe de printemps',description: 'framboise, fraise, citron, chantilly', prix: 6.50 },
-        { id: 108, nom: 'Le Clown',description: '2 boule vanille, chantilly, smarties', prix: 6.50 },
-        { id: 109, nom: '1 boule',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
-        { id: 110, nom: '2 boules',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
-        { id: 111, nom: '3 boules',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 6.50 },
+        { id: 108, nom: 'Le Clown',description: '2 boule vanille, chantilly, smarties', prix: 5.0 },
+        { id: 109, nom: '1 boule',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 2.50 },
+        { id: 110, nom: '2 boules',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 4.0 },
+        { id: 111, nom: '3 boules',description: 'Vanille, chocolat, pistache, café, citron, framboise', prix: 6.0 },
       ],
     }
   ];
